@@ -9,3 +9,5 @@ has been used in order to add functionality and events to the website
 
 Web API -> LocalStorage 
 has been used in order to save newly added items to the lists which can be retrieved when page is loaded. using this feature your previously added items are saved.
+
+I have also added an important feature of filtering items from the lists using search bar.
