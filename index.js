@@ -106,5 +106,6 @@ function filterItems(e)
 function saveAll()
 {
   storage.save(arr);
+  arr = [];
 }
 document.querySelector("body").addEventListener("load",storage.load());
