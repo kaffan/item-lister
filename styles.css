@@ -1,0 +1,36 @@
+#hd1
+{
+  padding: 2% 15%;
+  background-color: green;
+}
+.mainBox
+{
+  margin: 2% 15%;
+  border: ridge;
+  border-radius: 25px;
+  padding: 2% 2%;
+}
+.addItems, .ListItems
+{
+  padding: 2% 2%;
+}
+.ListItems,.ListI{
+  border: ridge;
+  border-radius: 10px;
+
+}
+.ListI
+{
+  height: 55px;
+  padding: 1% 2%;
+}
+.IT
+{
+
+  /*margin-right: auto;*/
+  background-color: red;
+}
+button:hover
+{
+  background-color: yellow;
+}
